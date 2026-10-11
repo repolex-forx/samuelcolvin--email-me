@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/email-me/commit/c1c82606724f01f14eda71036c072d340dc259bd",
       "git:hexsha": "c1c82606724f01f14eda71036c072d340dc259bd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:47:01.844828+00:00"
     }
   ]
 }
